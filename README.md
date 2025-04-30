@@ -8,11 +8,13 @@ The project includes examples of:
 - 👋 Hello World introduction
 - 📝 Variables and data types
 - 🗃️ Maps and collections
+- 🗺️ Lists, maps and iterable
 
 ## 📑 Files
 - `01-hello-world.dart` - Basic introduction to Dart programming
 - `02-variables.dart` - Examples of variable declarations and types
 - `03-maps.dart` - Working with Dart maps and collections
+- `04-lists-maps-iterable.dart` - Working with Dart lists and maps
 
 ## ⚙️ Requirements
 - Dart SDK installed on your system
